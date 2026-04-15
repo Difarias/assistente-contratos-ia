@@ -60,16 +60,7 @@ A aplicação:
 
 ### 3️⃣ Instalar dependências
 
-    pip install langchain
-    pip install langchain-community
-    pip install langchain-text-splitters
-    pip install langchain-chroma
-    pip install langchain-huggingface
-    pip install langchain-ollama
-    pip install chromadb
-    pip install python-dotenv
-    pip install pypdf
-    pip install sentence-transformers
+    pip install -r requirements.txt
 
 ---
 
